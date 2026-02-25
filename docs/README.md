@@ -5,7 +5,7 @@
 </h1>
 
 ## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
@@ -22,7 +22,7 @@ docs/
 ```
 
 ## Objetivo
-Criando um Profile README contendo informações que eu gostaria compartilhar com a comunidade. Utilização de Fork e contribuição em projetos Open Source no Git e/ou GitHub.
+Criar um Profile README contendo informações ou projetos à compartilhar com a comunidade. Utilização de Fork e contribuição em projetos Open Source no Git e/ou GitHub.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -32,6 +32,7 @@ Criando um Profile README contendo informações que eu gostaria compartilhar co
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 
 
 
