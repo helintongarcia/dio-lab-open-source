@@ -22,7 +22,7 @@ docs/
 ```
 
 ## Objetivo
-Criando um Profile README contendo informações que eu gostaria compartilhar com a comunidade. Utilização de Fork e trabalhos em projetos Open Source.
+Criando um Profile README contendo informações que eu gostaria compartilhar com a comunidade. Utilização de Fork e contribuição em projetos Open Source no Git e/ou GitHub.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -32,5 +32,6 @@ Criando um Profile README contendo informações que eu gostaria compartilhar co
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 
 
